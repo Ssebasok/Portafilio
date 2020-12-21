@@ -1,0 +1,7 @@
+@font-face{
+    font-family: NordicAlternativeRegular ;
+    src: url(Fuentes/NordicAlternativeRegular.ttf);
+}
+.logo{
+    font-family: NordicAlternativeRegular;
+}
